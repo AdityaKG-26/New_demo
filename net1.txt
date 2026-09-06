@@ -8,7 +8,7 @@
 #	http://standards-oui.ieee.org/ethertype/eth.txt
 #
 # <name>	<hexnumber> <alias1>...<alias35> # Comment
-#
+#nn
 IPv4		0800	ip ip4	# IP (IPv4)
 X25		0805
 ARP		0806	ether-arp # Address Resolution Protocol
